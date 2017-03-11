@@ -163,7 +163,6 @@ var colorsTours = d3.scale.category20c();
 
 
             }
-          );
 
           r.push(p);
           //console.log("q1",q);
